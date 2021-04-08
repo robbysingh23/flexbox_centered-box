@@ -1,0 +1,8 @@
+.container {
+  height: 500px;
+  width: 500px;
+  display: flex;
+  background-color: lightgrey;
+  align-items: center;
+  justify-content: center;
+}
